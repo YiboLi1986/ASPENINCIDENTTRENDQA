@@ -1,0 +1,20 @@
+{
+  "backend": "ollama",
+  "model": "nomic-embed-text:latest",
+  "base_url": "http://172.22.5.186:32000/ollama-dev",
+  "normalize": true,
+  "rows_total": 9885,
+  "rows_candidate": 300,
+  "rows_kept": 295,
+  "rows_skipped": 5,
+  "dim": 768,
+  "faiss": false,
+  "max_input_chars": 8000,
+  "tail_keep_chars": 2000,
+  "num_ctx": "default",
+  "start_offset": 0,
+  "limit": 300,
+  "batch_size": 64,
+  "shuffle": false,
+  "note": "embeddings.npy aligns with kept_indices.npy, not the raw CSV row order."
+}

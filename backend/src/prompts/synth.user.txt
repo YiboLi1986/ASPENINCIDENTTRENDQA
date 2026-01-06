@@ -1,0 +1,5 @@
+User message:
+{user_text}
+
+Retrieved incidents (JSON evidence):
+{retrieved_json}

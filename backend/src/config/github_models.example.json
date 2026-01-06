@@ -1,0 +1,7 @@
+{
+  "github_models": {
+    "api_key": "YOUR_TOKEN_HERE",
+    "base_url": "https://models.github.ai",
+    "model": "openai/gpt-4.1"
+  }
+}

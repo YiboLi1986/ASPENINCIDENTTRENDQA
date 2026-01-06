@@ -1,0 +1,64 @@
+# ========================
+# OS / Editor temporary files
+# ========================
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# ========================
+# Python cache / build files
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# ========================
+# Virtual environments
+# ========================
+.venv/
+env/
+venv/
+ENV/
+.env
+.env.*
+!.env.example
+
+# ========================
+# IDE settings
+# ========================
+.vscode/
+.idea/
+
+# ========================
+# Logs / debug
+# ========================
+*.log
+
+# ========================
+# Project-specific ignores
+# ========================
+backend/src/outputs/
+
+# SonarQube local cache / coverage
+.sonar/
+coverage/
+*.coverage
+*.coveragexml
+
+# ========================
+# Excel temp files only
+# ========================
+~$*.xls*
+
+# ========================
+# Local secrets (DO NOT COMMIT)
+# ========================
+backend/src/config/github_models.local.json
+*.local.json
+secrets.github_models.json

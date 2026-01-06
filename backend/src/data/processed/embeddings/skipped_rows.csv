@@ -1,0 +1,26 @@
+﻿row_index,id,source_file,desc_head,reason
+55,6ee76ecc142493839e1d318fa3b59ec9,SF DATA_Nov 25_emails combined.xlsx,"Hi team,
+Please create a case to follow up on this,
+Contact: Reyes, Juan Juan.Reyes@aspentech.com<mailto:Juan.Reyes@aspentech.com>
+Kindest Regards,
+Carlos Garduno
+Manager, Customer Support and Trainin","Error raised by inference API HTTP code: 500, {""error"":""Failed to create new sequence: the input length exceeds the context length""}"
+245,da5fbb60b6231f32efa5233bca661eea,SF DATA_Nov 25_emails combined.xlsx,"AspenTech
+かや様
+お世話になっております。
+添付”Single Model(2)”のstream#5,6を収束させたいのですが、どうすれば良いのでしょうか？
+ACMの元ファイルは添付の""black box model""がそうだと思うのですが…
+けっこう基礎的なところで躓いてしまっているので、ここはACMを１から覚えてしまった方が早いかもしれません。
+何か、tutorialの様なpdfだっ","Error raised by inference API HTTP code: 500, {""error"":""Failed to create new sequence: the input length exceeds the context length""}"
+246,b3a48a54a4da22a88ddb2f797fa2f294,SF DATA_Nov 25_emails combined.xlsx,"Hi team,
+Hope you had a good rest over the weekend. :)
+Can I check if the client has received assistance with this inquiry?
+Thank you.
+Best,
+Eden Kim
+High Velocity Sales Account Manager
+work: +65 639 ","Error raised by inference API HTTP code: 500, {""error"":""Failed to create new sequence: the input length exceeds the context length""}"
+256,59f8b2ec61128c245455d0108f77c26e,SF DATA_Nov 25_emails combined.xlsx,"Dear support,
+Can you please create a case for this customer from Petrofac? He's having issues with Depressuing analysis using CPA package.
+Email:  Chet.Biliyok@Petrofac.com<mailto:Chet.Biliyok@Petrof","Error raised by inference API HTTP code: 500, {""error"":""Failed to create new sequence: the input length exceeds the context length""}"
+283,ed147cedeffcd05d10a9bb1fd6a2aa02,SF DATA_Nov 25_emails combined.xlsx,Further to my previous question.  Could you also explain which critical pressure value is used on the Blowdown Utility Restriction orifice calculation.  Is it the True or Pseudo Critical Pressure?  It,"Error raised by inference API HTTP code: 500, {""error"":""Failed to create new sequence: the input length exceeds the context length""}"
